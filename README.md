@@ -12,7 +12,7 @@ directory.
 
 ### Applying the UI Theme
 
-In Sublime Text's user settings and the field and value:
+In Sublime Text's user settings add the following field and value:
 
 ```
 "theme": "Plasma.sublime-theme"
@@ -25,7 +25,7 @@ menu.
 
 OR:
 
-In Sublime Text's user settings and the field and value:
+In Sublime Text's user settings add the following field and value:
 
 ```
 "color_scheme": "Packages/Theme - Plasma/Plasma.tmTheme"
