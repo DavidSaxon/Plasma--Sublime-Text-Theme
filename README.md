@@ -1,7 +1,7 @@
 # Plasma
 ## A Sublime Text Theme
 
-A deep colour scheme and UI theme for Sublime Text 2:
+A deep colour scheme and UI theme for Sublime Text 2.
 
 ![](https://i.imgur.com/C7rTD64.png)
 
