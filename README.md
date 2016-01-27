@@ -1,4 +1,4 @@
 # Plasma
 ## A Sublime Text Theme
 
-![](http://i.imgur.com/59JWivv.png)
+![](https://i.imgur.com/gQC8Gbw.png)
